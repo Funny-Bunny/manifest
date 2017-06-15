@@ -26,6 +26,7 @@
   <remove-project name="platform/packages/services/Telephony" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/libcore" />
+  <remove-project name="platform/prebuilts/sdk" />
 
   <remove-project name="device/asus/fugu" />
   <remove-project name="device/asus/fugu-kernel" />
