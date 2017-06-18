@@ -40,7 +40,7 @@
 
   <!-- Kernels -->
   <project path="kernel/huawei/angler" name="chadouming/faster-angler" remote="gh" revision="master" />
-  <project path="kernel/lge/bullhead" name="DespairFactor/bullhead" remote="gh" revision="n" />
+  <project path="kernel/lge/bullhead" name="matthewdalex/bullhead" remote="gh" revision="n" />
   <project path="kernel/moto/shamu" name="DespairFactor/N6" remote="gh" revision="N" />
 
   <!-- UBERROMS Project -->
